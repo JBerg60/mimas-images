@@ -1,0 +1,7 @@
+# netbeans folders
+build/
+dist/
+nbproject/private/
+
+# mac osx stuff
+*.DS_Store
